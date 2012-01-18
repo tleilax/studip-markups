@@ -1,0 +1,7 @@
+pluginname=Markups
+pluginclassname=MarkupsPlugin
+origin=UOL
+version=1.0
+description=Add textile and markdown as format options
+studipMinVersion=2.3
+studipMaxVersion=2.3
