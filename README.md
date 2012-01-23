@@ -1,5 +1,7 @@
 # MarkupsPlugin for Stud.IP
 
+## Description
+
 Adds Markdown and Textile as formatting options in Stud.IP.
 
 Use *[markdown]...[/markdown]* respectively *[textile]...[/textile]* where
